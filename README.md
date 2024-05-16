@@ -1,6 +1,5 @@
-Here's the corrected and updated README.md:
 
-```markdown
+
 # Dot and Boxes Game  🎮
 
 ![image](https://github.com/TonyStark-47/gamer_21/assets/73957207/a790f078-a87d-4e17-877c-f1d630de9a68)
@@ -52,12 +51,22 @@ Dot and Boxes is a classic pen-and-paper game where two players take turns conne
 - Developed using Python only.
 
 ## Contributing: 🤝
-1. Fork the repository on GitHub.
-2. Create a new branch for your feature or bug fix.
+1. Fork the repository: Click the 'Fork' on GitHub.
+2. Create a new branch for your feature or bug fix: Use a descriptive name for your branch.
+   ```
+   git checkout -b feature-branch
+   ```
 3. Make your changes and ensure the tests pass.
-4. Submit a pull request for review.
+4. Commit Your changes : Write a clear and cincise commit mesaage.
+ ```
+   git commit -m "Add new feature"
+   ```
+5. Push to Your branch :
+ ```
+   git push origin frature-branch"
+   ```
+6. Submit a Pull Request: Go to the original repository on GitHub and create a pull request.
 
 ## License: 📄
 - This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
